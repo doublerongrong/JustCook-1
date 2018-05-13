@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "713577119071",
+    "firebase_url": "https://applied-shade-203912.firebaseio.com",
+    "project_id": "applied-shade-203912",
+    "storage_bucket": "applied-shade-203912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713577119071:android:923e3ccd66131dbd",
+        "android_client_info": {
+          "package_name": "com.example.justcook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713577119071-f27jjtetstg5bp7p2ttica5fn65iknnd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "713577119071-rhjri34mekjmn3565i6o6j3ci74oqsl9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "713577119071-t4p1071tnjuk0rd6hetnkb6qsh64koe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justcook",
+            "certificate_hash": "ff7fe318eed38cbfcc1f4a878674691ae2a0d9c2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ5nKNEx_VevhZvDo2xLcYqSEGQej_ECs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713577119071-f27jjtetstg5bp7p2ttica5fn65iknnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
